@@ -1,0 +1,5 @@
+Flask
+Gunicorn
+pandas
+requests
+bs4
